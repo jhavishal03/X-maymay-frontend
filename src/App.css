@@ -1,0 +1,22 @@
+
+.App {
+  text-align: center;
+}
+
+#jeth{
+ height: 100px;
+ width: 100px;
+border-radius: 50%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+@import url(https://unpkg.com/bootstrap@4.1.0/dist/css/bootstrap.min.css)
+
+
+
+
+
